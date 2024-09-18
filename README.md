@@ -2,7 +2,7 @@
 
 **Tour-Buddy** is a Geographic Information System (GIS) application designed for tourists, offering features similar to Google Maps. Built using the OpenStreetMap API, GTK, and Glade, the application provides users with heat maps, night mode, and detailed directions for enhanced travel experiences.
 
-## Features
+## Key Features
 
 - **Heat Maps**: Visualize data trends and popular locations.
 - **Night Mode**: Adjusts the interface for better visibility in low light.
